@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="37">
+        <Placemark id="39">
+            <name>Bounding Rectangle</name>
+            <Polygon id="38">
+                <outerBoundaryIs>
+                    <LinearRing id="40">
+                        <coordinates>-88.15626611,39.88028226,0.0 -88.15121324,39.88028226,0.0 -88.15121324,39.88636728,0.0 -88.15626611,39.88636728,0.0 -88.15626611,39.88028226,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
